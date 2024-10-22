@@ -60,7 +60,7 @@ const route = useRoute();
           </div>
           <!-- eslint-enable -->
 
-          <h1 class="app-logo-title">ACLAS</h1>
+          <h1 class="app-logo-title">ACLAaaaS</h1>
         </NuxtLink>
 
         <IconBtn
